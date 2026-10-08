@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-text min-h-screen font-body antialiased;
+  }
+
+  /* Keyboard focus outline style based on design.md §7 */
+  *:focus-visible {
+    @apply outline-none ring-4 ring-primary-light border-primary;
+  }
+}
+
+/* Custom Typography Helpers for Fraunces Display text (design.md §3) */
+.text-display-xl {
+  font-family: 'Fraunces', 'Georgia', serif;
+  font-size: 56px;
+  line-height: 60px;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .text-display-xl {
+    font-size: 38px;
+    line-height: 42px;
+  }
+}
+
+.text-display-lg {
+  font-family: 'Fraunces', 'Georgia', serif;
+  font-size: 40px;
+  line-height: 46px;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .text-display-lg {
+    font-size: 28px;
+    line-height: 34px;
+  }
+}
+
+.text-display-md {
+  font-family: 'Fraunces', 'Georgia', serif;
+  font-size: 28px;
+  line-height: 34px;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .text-display-md {
+    font-size: 22px;
+    line-height: 28px;
+  }
+}
+
+/* Typography styles mapped from design.md §3 */
+.text-heading-lg {
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  line-height: 28px;
+  font-weight: 600;
+}
+
+.text-heading-md {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.text-heading-sm {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: 600;
+}
+
+.text-body-lg {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.text-body-md {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+.text-body-sm {
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+}
+
+.text-price-lg {
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 600;
+}
+
+.text-price-md {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+.text-label {
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.text-button {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+/* Horizontal scroll styling */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

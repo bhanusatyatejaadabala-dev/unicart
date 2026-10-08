@@ -1,0 +1,3120 @@
+[
+  {
+    "id": "clothing-01",
+    "title": "511 Slim Fit Men's Jeans",
+    "description": "The classic slim fit from Levi's. Woven with a touch of stretch for all-day comfort and mobility.",
+    "price": 2999,
+    "originalPrice": 3999,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 24,
+    "rating": 4.6,
+    "brand": "Levi's",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "details": {
+        "Fabric": "99% Cotton, 1% Elastane",
+        "Fit": "Slim",
+        "Wash": "Machine Wash Cold"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Amit S.",
+        "rating": 5,
+        "comment": "Perfect fit, original Levi's quality.",
+        "date": "2026-06-12"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-02",
+    "title": "Dri-FIT Men's Running Tee",
+    "description": "High-performance moisture-wicking activewear shirt designed to keep you cool and dry on long runs.",
+    "price": 1499,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 40,
+    "rating": 4.5,
+    "brand": "Nike",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "details": {
+        "Fabric": "100% Recycled Polyester",
+        "Fit": "Athletic",
+        "Technology": "Dri-FIT Moisture Management"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Rahul M.",
+        "rating": 4,
+        "comment": "Very comfortable for workouts. Dries super fast.",
+        "date": "2026-05-18"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-03",
+    "title": "Women's Knit Wool Cardigan",
+    "description": "Cozy open-front knit cardigan featuring tortoise shell buttons, ribbed cuffs, and soft premium yarns.",
+    "price": 3499,
+    "originalPrice": 4299,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "low-stock",
+    "stockCount": 5,
+    "rating": 4.7,
+    "brand": "Zara",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "details": {
+        "Fabric": "80% Acrylic, 20% Wool",
+        "Style": "Casual Relaxed",
+        "Care": "Hand Wash Lay Flat to Dry"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Pooja K.",
+        "rating": 5,
+        "comment": "Lovely soft feel, fits true to size.",
+        "date": "2026-06-25"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-04",
+    "title": "Regular Fit Linen Shirt",
+    "description": "Breathable 100% premium flax linen shirt. Features a classic button-down collar and chest pocket.",
+    "price": 1999,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 18,
+    "rating": 4.3,
+    "brand": "H&M",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "details": {
+        "Fabric": "100% Flax Linen",
+        "Fit": "Regular",
+        "Origin": "Imported"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-05",
+    "title": "Men's Casual Cotton Shirt",
+    "description": "Crisp cotton fabric casual shirt from Allen Solly. Ideal for semi-formal styling and weekend outings.",
+    "price": 1299,
+    "originalPrice": 1799,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 35,
+    "rating": 4.4,
+    "brand": "Allen Solly",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "details": {
+        "Fabric": "100% Cotton",
+        "Pattern": "Solid",
+        "Sleeve": "Full Sleeve"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-06",
+    "title": "Slim Fit Formal Cotton Shirt",
+    "description": "Formal solid white office shirt crafted by Peter England. Comfortable, breathable, and wrinkle-resistant.",
+    "price": 999,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 50,
+    "rating": 4.2,
+    "brand": "Peter England",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "39",
+        "40",
+        "42",
+        "44"
+      ],
+      "details": {
+        "Fabric": "60% Cotton, 40% Polyester",
+        "Collar": "Spread Collar",
+        "Wrinkle Resistance": "High"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-07",
+    "title": "Men's Custom Polo Tee",
+    "description": "Signature stripe collar polo shirt from Tommy Hilfiger. Features high-density knit organic pique cotton.",
+    "price": 2799,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 22,
+    "rating": 4.6,
+    "brand": "Tommy Hilfiger",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "details": {
+        "Fabric": "100% Organic Pique Cotton",
+        "Fit": "Custom Fit",
+        "Logo": "Embroidered flag on chest"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-08",
+    "title": "Cotton Printed Ethnic Kurta",
+    "description": "Authentic Indian handblock printed cotton kurta from Fabindia. Matches well with pyjamas or denims.",
+    "price": 1899,
+    "originalPrice": 2299,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 16,
+    "rating": 4.8,
+    "brand": "Fabindia",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "details": {
+        "Fabric": "100% Khadi Cotton",
+        "Weave": "Handloom",
+        "Length": "Knee Length"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Rajesh V.",
+        "rating": 5,
+        "comment": "Excellent fabric quality, feels organic and cool.",
+        "date": "2026-06-02"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-09",
+    "title": "Anarkali Ethnic Salwar Suit",
+    "description": "Elegant printed Anarkali dress set with dupatta from Biba. Perfect for festivals, rituals, and celebrations.",
+    "price": 3999,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 12,
+    "rating": 4.5,
+    "brand": "Biba",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "details": {
+        "Fabric": "Cotton Viscose Blend",
+        "Set Contains": "Anarkali Kurta, Churidar, Dupatta",
+        "Work": "Gold foil printing details"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-10",
+    "title": "Activewear Workout Track Pants",
+    "description": "Flexible and lightweight running track pants from Puma. Features dryCELL sweat control technology.",
+    "price": 1799,
+    "originalPrice": 2499,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 20,
+    "rating": 4.3,
+    "brand": "Puma",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "details": {
+        "Fabric": "92% Polyester, 8% Elastane",
+        "Pockets": "Dual side zipper pockets",
+        "Waistband": "Elastic with internal drawcord"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-11",
+    "title": "Ultraboost Running Shoes",
+    "description": "High energy return trainers from Adidas. Primeknit upper wraps the foot for adaptive support.",
+    "price": 14999,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 8,
+    "rating": 4.8,
+    "brand": "Adidas",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "UK 7",
+        "UK 8",
+        "UK 9",
+        "UK 10"
+      ],
+      "details": {
+        "Cushioning": "Responsive Boost Midsole",
+        "Outsole": "Continental Rubber Grip",
+        "Weight": "310g"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Vikram D.",
+        "rating": 5,
+        "comment": "Like walking on clouds. Best running shoe ever.",
+        "date": "2026-06-20"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1597045566677-8cf032ed6634?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-12",
+    "title": "Denim Trucker Jacket",
+    "description": "The original jean jacket since 1967. A blank canvas for self-expression from Levi's.",
+    "price": 4499,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 10,
+    "rating": 4.7,
+    "brand": "Levi's",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "details": {
+        "Fabric": "100% Cotton Denim",
+        "Placket": "Button Closure",
+        "Weight": "Heavyweight"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-13",
+    "title": "Floral Summer Dress",
+    "description": "Flowy, lightweight viscose summer dress from Zara. Features custom botanical floral print patterns.",
+    "price": 2999,
+    "originalPrice": 3999,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "low-stock",
+    "stockCount": 3,
+    "rating": 4.4,
+    "brand": "Zara",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "details": {
+        "Fabric": "100% Ecovero Viscose",
+        "Neckline": "V-Neck",
+        "Length": "Midi"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-14",
+    "title": "Organic Cotton Hoodie",
+    "description": "Cozy hooded sweatshirt with warm fleece lining and kangaroo pocket from H&M.",
+    "price": 1999,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 25,
+    "rating": 4.2,
+    "brand": "H&M",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "details": {
+        "Fabric": "85% Organic Cotton, 15% Recycled Polyester",
+        "Weight": "320gsm",
+        "Hood": "Drawstring Adjustable"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-15",
+    "title": "Men's Cotton Boxers (Pack of 3)",
+    "description": "Premium combed cotton checks and stripes underwear trunks from Jack & Jones.",
+    "price": 899,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1618677831708-0e7fda3148b4?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 30,
+    "rating": 4.5,
+    "brand": "Jack & Jones",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "details": {
+        "Fabric": "100% Combed Cotton",
+        "Waist": "Fabric-covered elastic waistband",
+        "Fly": "Button Fly"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-16",
+    "title": "Women's Solid A-Line Kurti",
+    "description": "W brand A-line ethnic kurti featuring keyhole neckline, golden hem designs, and comfortable fit.",
+    "price": 1299,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1612336307429-8a898d10e223?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 18,
+    "rating": 4.3,
+    "brand": "W",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "details": {
+        "Fabric": "100% Rayon",
+        "Length": "Calf Length",
+        "Occasion": "Daily Wear"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-17",
+    "title": "Unisex Canvas Sneakers",
+    "description": "Low-top retro canvas lace-up sneakers from Roadster. Features durable vulcanized rubber soles.",
+    "price": 799,
+    "originalPrice": 1299,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 28,
+    "rating": 4,
+    "brand": "Roadster",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "UK 6",
+        "UK 7",
+        "UK 8",
+        "UK 9"
+      ],
+      "details": {
+        "Upper": "100% Canvas",
+        "Sole": "Vulcanized Rubber",
+        "Style": "Low Top Retro"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-18",
+    "title": "Sportswear Cushion Socks (Pack of 3)",
+    "description": "Nike dry comfort ribbed sport socks featuring cushioning on heels and arches.",
+    "price": 699,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 60,
+    "rating": 4.6,
+    "brand": "Nike",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "Standard Size"
+      ],
+      "details": {
+        "Fabric": "68% Cotton, 29% Polyester, 3% Spandex",
+        "Fit": "Crew Cut",
+        "Cushion": "Terry Sole"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-19",
+    "title": "Women's Solid Formal Blazer",
+    "description": "Tailored notch lapel formal business suit blazer from Allen Solly. Double pocket detailing.",
+    "price": 3499,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 11,
+    "rating": 4.5,
+    "brand": "Allen Solly",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "S",
+        "M",
+        "L"
+      ],
+      "details": {
+        "Fabric": "Polyester Rayon Spandex Blend",
+        "Fit": "Slim Fit",
+        "Lining": "100% Satin Polyester"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "clothing-20",
+    "title": "Linen Drawstring Trousers",
+    "description": "Relaxed breathable pure flax linen trousers from Fabindia. Drawstring elastic waist.",
+    "price": 2499,
+    "category": "Clothing",
+    "categorySlug": "clothing",
+    "image": "https://images.unsplash.com/photo-1509551388413-e18d0ac5d495?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "out-of-stock",
+    "stockCount": 0,
+    "rating": 4.5,
+    "brand": "Fabindia",
+    "attributes": {
+      "type": "size",
+      "values": [
+        "32",
+        "34",
+        "36"
+      ],
+      "details": {
+        "Fabric": "100% Flax Linen",
+        "Fit": "Relaxed Straight",
+        "Waist": "Elastic with external Drawcord"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-01",
+    "title": "Purifying Neem Face Wash",
+    "description": "Clinically backed herbal neem wash from Himalaya. Combats acne, breakouts, and excess sebum.",
+    "price": 199,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 120,
+    "rating": 4.6,
+    "brand": "Himalaya",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "150ml Tube",
+        "300ml Pump Pack"
+      ],
+      "details": {
+        "Key Herbs": "Neem, Turmeric",
+        "Skin Type": "Oily & Acne-Prone",
+        "Origin": "India"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Ananya R.",
+        "rating": 5,
+        "comment": "Best neem face wash in India.",
+        "date": "2026-06-25"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-02",
+    "title": "Dabur Chyawanprash (Immunity)",
+    "description": "Double immunity ayurvedic health tonic packed with amla, giloy, and wild forest honey.",
+    "price": 345,
+    "originalPrice": 395,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 85,
+    "rating": 4.8,
+    "brand": "Dabur",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "500g Jar",
+        "1kg Refill pack"
+      ],
+      "details": {
+        "Dose": "1-2 teaspoons daily",
+        "Key Source": "Amla (Gooseberry)",
+        "Veg Status": "100% Vegetarian"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1626847037657-fd3622613ce3?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-03",
+    "title": "Tulsi Green Tea (Classic)",
+    "description": "100% organic tulsi green tea leaves from Organic India. Boosts metabolic levels.",
+    "price": 174,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 110,
+    "rating": 4.5,
+    "brand": "Organic India",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "25 Tea Bags",
+        "100g Loose Tea Tin"
+      ],
+      "details": {
+        "Ingredients": "Rama Tulsi, Krishna Tulsi, Green Tea leaves",
+        "Caffeine": "Low",
+        "Organic Standard": "SGS Certified Organic"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-04",
+    "title": "Pain Relief Spray",
+    "description": "Fast-acting joint and muscle pain relief aerosol spray from Volini. Contains micro-particles.",
+    "price": 280,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 42,
+    "rating": 4.4,
+    "brand": "Volini",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "55g Spray Bottle",
+        "100g Spray Bottle"
+      ],
+      "details": {
+        "Formula": "Diclofenac Diethylamine, Methyl Salicylate, Menthol",
+        "Application": "Local pain area spray",
+        "Target": "Sprain, Backache, Joint pain"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1628771065518-0d82f1938462?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-05",
+    "title": "Crocin Pain Relief Tablets",
+    "description": "Effective fast relief from headaches and muscular aches from Crocin. Box of 15 tablets.",
+    "price": 60,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 150,
+    "rating": 4.7,
+    "brand": "Crocin",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "15 Tablets Strip"
+      ],
+      "details": {
+        "Active Ingredient": "Paracetamol 650mg, Caffeine 50mg",
+        "Form": "Coated Tablet",
+        "Fever Reducer": "Yes"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1626847037657-fd3622613ce3?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-06",
+    "title": "Ashwagandha Stress Relief Capsules",
+    "description": "Himalaya Herbals certified root extract capsules supporting stress reduction and vitality.",
+    "price": 165,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 90,
+    "rating": 4.6,
+    "brand": "Himalaya",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "60 Tablets Bottle"
+      ],
+      "details": {
+        "Extract Strength": "250mg pure Ashwagandha",
+        "USDA Organic": "Yes",
+        "Free from": "Sugar, Gluten, Soy"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1626847037657-fd3622613ce3?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-07",
+    "title": "Dant Kanti Herbal Toothpaste",
+    "description": "Complete dental hygiene care with Patanjali's blend of neem, clove, and babool herbs.",
+    "price": 115,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 140,
+    "rating": 4.3,
+    "brand": "Patanjali",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "200g Tube",
+        "Pack of 2 (200g each)"
+      ],
+      "details": {
+        "Main Herbs": "Vajradanti, Babool, Neem, Tomar, Clove",
+        "Fluoride Status": "Herbal fluoride free",
+        "Benefits": "Protects gums, fights bad breath"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-08",
+    "title": "Honitus Herbal Cough Syrup",
+    "description": "Fast honey-based cough and throat relief syrup from Dabur. Absolutely alcohol free.",
+    "price": 110,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1550572017-edd951b55104?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 75,
+    "rating": 4.5,
+    "brand": "Dabur",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "100ml Bottle"
+      ],
+      "details": {
+        "Base": "Pure Honey",
+        "Key Herbs": "Tulsi, Mulethi, Banapsha, Kantkari",
+        "Side effects": "Drowsiness free"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1628771065518-0d82f1938462?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-09",
+    "title": "Kabz-Har Ayurvedic Granules",
+    "description": "Baidyanath time-tested herbal laxative powder supporting digestion and relieving constipation.",
+    "price": 180,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1471193945509-9ad0617afabf?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 65,
+    "rating": 4.2,
+    "brand": "Baidyanath",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "100g Jar",
+        "200g Value Pack"
+      ],
+      "details": {
+        "Ingredients": "Senna, Haritaki, Ajwain, Black Salt",
+        "Dose": "1-2 teaspoons before bed",
+        "Form": "Churna Granules"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-10",
+    "title": "Zandu Balm Ultra Power",
+    "description": "Strong pain relief balm from Zandu. Instantly relieves strong headaches and cold blockages.",
+    "price": 85,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 200,
+    "rating": 4.6,
+    "brand": "Zandu",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "8ml Bottle",
+        "25ml Jar"
+      ],
+      "details": {
+        "Active Ingredient": "Mentha, Eucalyptus Oil, Gaultheria Oil",
+        "Texture": "Ointment balm",
+        "Aroma": "Strong mint"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-11",
+    "title": "Liquid Handwash Refill",
+    "description": "Dettol original germ protection liquid hand wash liquid soap. pH balanced formula.",
+    "price": 99,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 80,
+    "rating": 4.5,
+    "brand": "Dettol",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "675ml Refill Pouch",
+        "1.5L Value Jug"
+      ],
+      "details": {
+        "Protection": "99.9% germs",
+        "Scent": "Original Pine Scent",
+        "Clinically Tested": "Yes"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-12",
+    "title": "Adult Nasal Relief Spray",
+    "description": "Fast nasal decongestant spray from Otrivin. Starts working in 2 minutes for up to 10 hours.",
+    "price": 92,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1628771065518-0d82f1938462?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 95,
+    "rating": 4.4,
+    "brand": "Otrivin",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "10ml Dropper Spray"
+      ],
+      "details": {
+        "Active Ingredient": "Xylometazoline Hydrochloride 0.1%",
+        "Age Range": "Adults and kids above 12",
+        "Form": "Metered Dose Spray"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1628771065518-0d82f1938462?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-13",
+    "title": "Vaporub Relief Balm",
+    "description": "Vicks classic relief cold rub ointment. Relieves cough, throat stuffiness, and body pain.",
+    "price": 155,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 150,
+    "rating": 4.7,
+    "brand": "Vicks",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "50g Jar",
+        "100g Big Pack"
+      ],
+      "details": {
+        "Active Ingredients": "Menthol, Camphor, Eucalyptus Oil",
+        "Application": "Chest, neck, and back rub",
+        "Suitability": "Adults and kids above 2"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-14",
+    "title": "Revital H Daily Supplement",
+    "description": "Daily multivitamin health supplement capsules with ginseng extract, iron, and minerals.",
+    "price": 310,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1626847037657-fd3622613ce3?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 64,
+    "rating": 4.3,
+    "brand": "Revital",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "30 Capsules Bottle",
+        "60 Capsules Bottle"
+      ],
+      "details": {
+        "Contains": "10 Vitamins, 9 Minerals, Ginseng Extract",
+        "Usage": "1 capsule daily with water after meals",
+        "Energy Support": "Yes"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1626847037657-fd3622613ce3?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-15",
+    "title": "Kesari Jivan chyawanprash",
+    "description": "Saffron (kesar) and pearl (moti) enriched premium health chyawanprash from Zandu.",
+    "price": 699,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 40,
+    "rating": 4.8,
+    "brand": "Zandu",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "900g Gold Jar"
+      ],
+      "details": {
+        "Ingredients": "Saffron, Pearl, Fresh Amla, Cardamom",
+        "Age Range": "Adults & Seniors",
+        "Benefit": "Anti-ageing, joint support, energy"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1626847037657-fd3622613ce3?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-16",
+    "title": "Shatavari Hormone Balance Tablets",
+    "description": "Himalaya Shatavari organic botanical tablets to support female hormonal balance and lactation.",
+    "price": 180,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 35,
+    "rating": 4.6,
+    "brand": "Himalaya",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "60 Tablets Bottle"
+      ],
+      "details": {
+        "Active ingredient": "Shatavari Root Extract 250mg",
+        "Standard": "USDA Organic",
+        "Dose": "1 tablet twice daily"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1626847037657-fd3622613ce3?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-17",
+    "title": "Pure Herbal Aloe Vera Gel",
+    "description": "Multipurpose cooling skin and hair aloe vera gel extracted by Patanjali.",
+    "price": 95,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 120,
+    "rating": 4.1,
+    "brand": "Patanjali",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "150ml Tube"
+      ],
+      "details": {
+        "Purity": "90% Pure Aloe Extract",
+        "Free from": "Parabens, Synthetic Color",
+        "Application": "Hair & Face moisturizing"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-18",
+    "title": "Psyllium Husk Isabgol Powder",
+    "description": "Organic India high-fiber pure natural psyllium husk supporting smooth intestinal health.",
+    "price": 210,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 55,
+    "rating": 4.5,
+    "brand": "Organic India",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "100g Tin Pack"
+      ],
+      "details": {
+        "Ingredient": "100% Organic Psyllium Husk",
+        "Soluble Fiber": "High",
+        "Gluten Free": "Yes"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-19",
+    "title": "Safi Blood Purifier Syrup",
+    "description": "Hamdard herbal liquid blood purifier with senna and neem. Clears skin blemishes.",
+    "price": 120,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1512438248247-f0f2a5a8b7f0?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "low-stock",
+    "stockCount": 4,
+    "rating": 4.2,
+    "brand": "Hamdard",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "200ml Bottle",
+        "500ml Family Pack"
+      ],
+      "details": {
+        "Main Herbs": "Sana, Neem, Chiraita, Tulsi",
+        "Benefits": "Combats acne, glows skin",
+        "Form": "Liquid syrup"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1628771065518-0d82f1938462?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "pharmacy-20",
+    "title": "Pure Organic Aloe Vera Juice",
+    "description": "Nutritious cold-extracted dietary aloe vera juice from Baidyanath.",
+    "price": 240,
+    "category": "Pharmacy",
+    "categorySlug": "pharmacy",
+    "image": "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "out-of-stock",
+    "stockCount": 0,
+    "rating": 4.3,
+    "brand": "Baidyanath",
+    "attributes": {
+      "type": "pack-size",
+      "values": [
+        "1L Bottle"
+      ],
+      "details": {
+        "Purity": "100% Aloe Vera pulp",
+        "Usage": "30ml juice mixed with water in mornings",
+        "Added sugars": "None"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584308666744-247e87d1362e?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-01",
+    "title": "Bassheads 225 In-Ear Earphones",
+    "description": "Heavy bass in-ear wired metal earphones from boat. Equipped with passive noise isolation.",
+    "price": 399,
+    "originalPrice": 999,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 115,
+    "rating": 4.3,
+    "brand": "boat",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Neon Red",
+        "Black Pearl",
+        "Forest Green"
+      ],
+      "details": {
+        "Driver": "10mm dynamic drivers",
+        "Cable": "Tangle-free flat cable",
+        "Connector": "3.5mm Gold-plated jack"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Varun L.",
+        "rating": 5,
+        "comment": "Amazing bass at this price point.",
+        "date": "2026-06-18"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-02",
+    "title": "Go 3 Portable Bluetooth Speaker",
+    "description": "Rugged dust and waterproof mini bluetooth travel speaker from JBL. Rich original sound.",
+    "price": 2999,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 35,
+    "rating": 4.6,
+    "brand": "JBL",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Ocean Blue",
+        "Teal Teal",
+        "Squad Camo"
+      ],
+      "details": {
+        "Output": "4.2W RMS",
+        "Waterproofing": "IP67 Waterproof & Dustproof",
+        "Battery": "Up to 5 hours playtime"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-03",
+    "title": "WH-1000XM4 Noise Cancelling ANC Headphones",
+    "description": "Industry leading active noise cancellation over-ear smart headphones from Sony.",
+    "price": 19990,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 18,
+    "rating": 4.9,
+    "brand": "Sony",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Silver Mist",
+        "Midnight Black"
+      ],
+      "details": {
+        "ANC chip": "Sony QN1 High Definition processor",
+        "Battery": "Up to 30 hours with fast charge",
+        "Codecs supported": "LDAC, AAC, SBC"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Aditya P.",
+        "rating": 5,
+        "comment": "Incredible silence. Music separation is beautiful.",
+        "date": "2026-06-25"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-04",
+    "title": "Bullets Wireless Z2 Earphones",
+    "description": "Fast pairing neckband wireless earphones from OnePlus. 30 hours battery backup.",
+    "price": 1999,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 85,
+    "rating": 4.4,
+    "brand": "OnePlus",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Acoustic Blue",
+        "Magico Black"
+      ],
+      "details": {
+        "Driver Size": "12.4mm Dynamic drivers",
+        "Charge Speed": "10 min charge for 20 hours play",
+        "Water Resistance": "IP55 rating"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-05",
+    "title": "EVO Plus 128GB MicroSD Card",
+    "description": "High speed microSDXC memory card from Samsung. Speeds up to 130MB/s.",
+    "price": 999,
+    "originalPrice": 1499,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 150,
+    "rating": 4.5,
+    "brand": "Samsung",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Standard Red/White"
+      ],
+      "details": {
+        "Capacity": "128GB",
+        "Class": "Class 10 U3 V30",
+        "Read speed": "Up to 130 MB/s"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-06",
+    "title": "20000mAh Power Bank 3i",
+    "description": "High capacity triple port output power bank from Xiaomi. Supports 18W fast charging.",
+    "price": 2199,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 65,
+    "rating": 4.3,
+    "brand": "Xiaomi",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Sandstone Black",
+        "Military Blue"
+      ],
+      "details": {
+        "Capacity": "20000mAh 74Wh",
+        "Inputs": "USB-C, Micro USB",
+        "Outputs": "2x USB-A, 1x USB-C (18W Max)"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-07",
+    "title": "Wave Call Smartwatch",
+    "description": "Bluetooth calling smartwatch from boat. Features a 1.69 inch HD screen and health sensors.",
+    "price": 1799,
+    "originalPrice": 2499,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 50,
+    "rating": 4.1,
+    "brand": "boat",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Active Black",
+        "Cherry Blossom",
+        "Deep Blue"
+      ],
+      "details": {
+        "Screen": "1.69 inch TFT LCD display",
+        "Sensors": "Heart Rate, SpO2 tracker, Sleep monitor",
+        "Calling capability": "Yes (Bluetooth call log & dialer)"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-08",
+    "title": "Multi-Grooming Beard Trimmer",
+    "description": "High performance corded/cordless trimming kit from Philips. Titanium coated blades.",
+    "price": 1499,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1621607512214-68297480165e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 44,
+    "rating": 4.5,
+    "brand": "Philips",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Steel Grey"
+      ],
+      "details": {
+        "Settings": "20 length settings (0.5mm to 10mm)",
+        "Runtime": "Up to 60 minutes cordless use",
+        "Charging time": "1 hour fast charge"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1621607512214-68297480165e?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-09",
+    "title": "SRS-XB13 Extra Bass Speaker",
+    "description": "Ultra compact waterproof wireless speaker from Sony. Sound diffusion processor.",
+    "price": 3490,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1589003077984-894e133dabab?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 26,
+    "rating": 4.6,
+    "brand": "Sony",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Powder Blue",
+        "Coral Pink",
+        "Slate Grey"
+      ],
+      "details": {
+        "Durability": "IP67 Waterproof & Dustproof",
+        "Strap": "Multiway strap included",
+        "Playtime": "Up to 16 hours"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-10",
+    "title": "Pebble M350 Wireless Mouse",
+    "description": "Slim, silent click Bluetooth and USB dongle wireless mouse from Logitech.",
+    "price": 1299,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 78,
+    "rating": 4.4,
+    "brand": "Logitech",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Sand White",
+        "Rose Pink",
+        "Graphite Black"
+      ],
+      "details": {
+        "Connectivity": "Bluetooth & 2.4GHz USB receiver",
+        "Click sound": "Silent (90% noise reduction)",
+        "Battery": "18 months on single AA"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-11",
+    "title": "Wireless Keyboard & Mouse Combo",
+    "description": "Standard spill resistant wireless desktop bundle from Dell. Comfortable key design.",
+    "price": 1499,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 35,
+    "rating": 4.2,
+    "brand": "Dell",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Carbon Black"
+      ],
+      "details": {
+        "Layout": "Full size English keys",
+        "Range": "10 meters",
+        "Battery lifetime": "Keyboard 36 months, Mouse 18 months"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-12",
+    "title": "Tune 230NC TWS ANC Earbuds",
+    "description": "True wireless noise cancelling earbuds from JBL. Rich bass performance and 4 mics.",
+    "price": 4499,
+    "originalPrice": 5999,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 40,
+    "rating": 4.5,
+    "brand": "JBL",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Charcoal Blue",
+        "Classic White"
+      ],
+      "details": {
+        "Drivers": "6mm drivers with JBL Pure Bass",
+        "ANC": "Active Noise Cancelling with Smart Ambient",
+        "Playtime": "Up to 40 hours (10h earbuds + 30h charging case)"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-13",
+    "title": "Fast Charging Power Bank 10k",
+    "description": "Slim lightweight two-way fast charge power bank from Realme. 12W output power.",
+    "price": 1299,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 85,
+    "rating": 4.1,
+    "brand": "Realme",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Realme Yellow",
+        "Active Black"
+      ],
+      "details": {
+        "Capacity": "10000mAh",
+        "Ports": "Dual Output (USB-A & USB-C)",
+        "Bumper": "Grid anti-skid design"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-14",
+    "title": "20W USB-C Power Adapter",
+    "description": "Original fast charger adapter brick from Apple. Ideal for charging iPhones and iPads.",
+    "price": 1900,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 92,
+    "rating": 4.7,
+    "brand": "Apple",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Pure White"
+      ],
+      "details": {
+        "Output Port": "USB Type-C",
+        "Wattage": "20 Watts",
+        "Compatibility": "iPhone 8 and newer, iPad Pro"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-15",
+    "title": "Essential Care Hair Dryer",
+    "description": "Compact foldable design blow dryer from Philips. Gentle drying power at 1000W.",
+    "price": 999,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 60,
+    "rating": 4.2,
+    "brand": "Philips",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Soft Pink"
+      ],
+      "details": {
+        "Power": "1000 Watts",
+        "Speed settings": "2 speeds including Cool Air",
+        "Handle": "Foldable compact handle"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1621607512214-68297480165e?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-16",
+    "title": "Nord Buds 2 TWS Earbuds",
+    "description": "True wireless in-ear earbuds from OnePlus. 25dB active noise cancelling.",
+    "price": 2499,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 54,
+    "rating": 4.4,
+    "brand": "OnePlus",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Thunder Gray",
+        "Lightning White"
+      ],
+      "details": {
+        "Drivers": "12.4mm dynamic titanized drivers",
+        "ANC": "Yes (25dB Active Noise Cancellation)",
+        "Equalizer": "BassWave Enhancement"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-17",
+    "title": "ZX110A Over-Ear Headphones",
+    "description": "Sony on-ear stereo dynamic headphones. Features fold-flat design for easy packing.",
+    "price": 899,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 70,
+    "rating": 4.2,
+    "brand": "Sony",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Classic White",
+        "Midnight Black"
+      ],
+      "details": {
+        "Drivers": "30mm dynamic dome drivers",
+        "Connector": "3.5mm L-shaped jack",
+        "Cable Length": "1.2 meters"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-18",
+    "title": "Stone 180 Portable Speaker",
+    "description": "5W robust portable sound speaker from boat. IPX7 waterproof rating.",
+    "price": 999,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "low-stock",
+    "stockCount": 4,
+    "rating": 4.3,
+    "brand": "boat",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Carbon Black",
+        "Blue Ridge"
+      ],
+      "details": {
+        "Output": "5W RMS",
+        "Connectivity": "Bluetooth 5.0 & AUX input",
+        "Battery": "10 hours on single charge"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-19",
+    "title": "Companion 107 Wireless Combo",
+    "description": "Full size wireless keyboard and ergonomic mouse set from Zebronics.",
+    "price": 799,
+    "originalPrice": 1199,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 42,
+    "rating": 3.9,
+    "brand": "Zebronics",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Black Textured"
+      ],
+      "details": {
+        "Dongle": "2.4GHz USB Nano Dongle",
+        "Keyboard": "104 keys including rupee symbol key",
+        "Mouse DPI": "1200 DPI sensor"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "electronics-20",
+    "title": "Type-C Fast Charging Cable",
+    "description": "Highly durable braided Type-C cable from Xiaomi supporting 3A charging currents.",
+    "price": 299,
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "out-of-stock",
+    "stockCount": 0,
+    "rating": 4.4,
+    "brand": "Xiaomi",
+    "attributes": {
+      "type": "color",
+      "values": [
+        "Space Grey",
+        "Bold Red"
+      ],
+      "details": {
+        "Current Capacity": "3 Ampere (Fast Charge)",
+        "Length": "1.0 Meter",
+        "Cover": "Double-braided nylon"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-01",
+    "title": "Extraordinary Botanical Hair Oil",
+    "description": "Lightweight non-greasy hair nourishing oil enriched with 6 flower extracts from L'Oreal Paris.",
+    "price": 499,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 94,
+    "rating": 4.7,
+    "brand": "L'Oreal",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "100ml Bottle"
+      ],
+      "details": {
+        "Key Herbs": "Rose, Chamomile, Lotus, Flax extracts",
+        "Texture": "Non-sticky glaze",
+        "Hair Type": "Dry & Dull Hair"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Reena J.",
+        "rating": 5,
+        "comment": "Gives instant shine. Amazing scent.",
+        "date": "2026-06-14"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-02",
+    "title": "Onion Hair Fall Control Shampoo",
+    "description": "Natural onion oil and plant keratin hair shampoo from Mamaearth. Prevents hair breakage.",
+    "price": 349,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 82,
+    "rating": 4.4,
+    "brand": "Mamaearth",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "250ml Pump Bottle",
+        "400ml Family Bottle"
+      ],
+      "details": {
+        "Key Ingredient": "Red Onion Seed Extract, Plant Keratin",
+        "Chemical Status": "Sulfate and Paraben Free",
+        "Scalp suitability": "All hair types"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-03",
+    "title": "Green Tea Pore Cleansing Wash",
+    "description": "Refreshing gel face wash from Plum. Mildly exfoliates acne prone skins with green tea leaves.",
+    "price": 329,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 65,
+    "rating": 4.5,
+    "brand": "Plum",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "120ml Squeeze Tube"
+      ],
+      "details": {
+        "Ingredients": "Green Tea Extracts, Glycolic Acid, Cellulose Beads",
+        "Vegan": "100% Vegan & Cruelty Free",
+        "Type": "Soap-Free Gel"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-04",
+    "title": "Absolute Skin Gloss Gel",
+    "description": "Lakme moisturizing gel cream. Enriched with mineral glacial water for a dewy look.",
+    "price": 699,
+    "originalPrice": 799,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 38,
+    "rating": 4.3,
+    "brand": "Lakme",
+    "attributes": {
+      "type": "shade",
+      "values": [
+        "Standard Glow Gel"
+      ],
+      "details": {
+        "Formula": "Hydrating Water-Gel",
+        "Weight": "50g Jar",
+        "Finish": "Dewy Glossy"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-05",
+    "title": "Soft Light Moisturiser Cream",
+    "description": "Quick absorbing non-sticky light cold cream containing jojoba oil and vitamin E from Nivea.",
+    "price": 249,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 110,
+    "rating": 4.6,
+    "brand": "Nivea",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "100ml Tub",
+        "200ml Family Tub"
+      ],
+      "details": {
+        "Active Oils": "Jojoba Oil, Vitamin E",
+        "Application": "Face & Hands",
+        "Texture": "Featherlight Whip"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-06",
+    "title": "Bio Dandelion Anti-Ageing Serum",
+    "description": "Biotique botanical ageless serum blending pure dandelion extracts and nutmeg oil.",
+    "price": 280,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1617897903246-719242758050?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 74,
+    "rating": 4.2,
+    "brand": "Biotique",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "40ml Dropper"
+      ],
+      "details": {
+        "Composition": "Dandelion, Nutmeg Oil, Bihidana, Watercress",
+        "Ayurvedic": "100% Botanical Extracts",
+        "Benefit": "Reduces wrinkles, dark spots"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-07",
+    "title": "Safe Sun Matte Gel SPF 30",
+    "description": "Non-greasy physical sun block gel containing natural birch and green tea extracts from Lotus.",
+    "price": 340,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 92,
+    "rating": 4.4,
+    "brand": "Lotus Herbals",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "100g Squeeze Tube"
+      ],
+      "details": {
+        "Protection": "SPF 30 PA+++ Broad Spectrum",
+        "Form": "Matte Gel (No white patch)",
+        "Active Herbs": "Birch, Mallow, Hops"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-08",
+    "title": "Apple Cider Vinegar Shampoo",
+    "description": "Clarifying detoxifying raw apple cider vinegar hair shampoo from Wow Skin Science.",
+    "price": 399,
+    "originalPrice": 499,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 85,
+    "rating": 4.3,
+    "brand": "Wow Skin Science",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "300ml Pump Bottle"
+      ],
+      "details": {
+        "Acid source": "100% Pure Organic Apple Cider Vinegar",
+        "Benefits": "Restores shine, cleanses build up",
+        "Chemical status": "No parabens or silicones"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-09",
+    "title": "Pure Kannauj Rose Water",
+    "description": "Kama Ayurveda organic steam-distilled skin toner sourced from Kannauj wild roses.",
+    "price": 1150,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 30,
+    "rating": 4.8,
+    "brand": "Kama Ayurveda",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "50ml Spray",
+        "200ml Refill Spray"
+      ],
+      "details": {
+        "Extraction Method": "Steam Distillation (Traditional)",
+        "Purity": "100% Natural, preservative free",
+        "Function": "Refreshing facial mist"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Sneha P.",
+        "rating": 5,
+        "comment": "Aromatic, refreshing, pure rose mist.",
+        "date": "2026-06-28"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-10",
+    "title": "Soundarya Radiance Cream SPF 25",
+    "description": "Ultra luxury 24-karat gold skin brightening face emulsion from Forest Essentials.",
+    "price": 3200,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "low-stock",
+    "stockCount": 4,
+    "rating": 4.9,
+    "brand": "Forest Essentials",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "50g Gold Jar"
+      ],
+      "details": {
+        "Luxury": "Contains 24k Gold Bhasma",
+        "Base": "Pure Ghee & Almond oil",
+        "Function": "Anti-ageing, illuminating glow"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Kiran S.",
+        "rating": 5,
+        "comment": "Worth every single rupee. My skin glows.",
+        "date": "2026-06-25"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-11",
+    "title": "Fit Me Liquid Foundation",
+    "description": "Mattifying pore-less liquid makeup foundation from Maybelline New York.",
+    "price": 549,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 60,
+    "rating": 4.5,
+    "brand": "Maybelline",
+    "attributes": {
+      "type": "shade",
+      "values": [
+        "115 Ivory",
+        "128 Warm Nude",
+        "220 Natural Beige"
+      ],
+      "details": {
+        "Finish": "Matte finish",
+        "Volume": "30ml Pump Bottle",
+        "Skin Type": "Normal to Oily Skin"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1617897903246-719242758050?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-12",
+    "title": "Matte to Last Liquid Lipstick",
+    "description": "Transfer-proof, vegan, long-lasting matte liquid lipstick from Nykaa.",
+    "price": 599,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 75,
+    "rating": 4.3,
+    "brand": "Nykaa",
+    "attributes": {
+      "type": "shade",
+      "values": [
+        "Bombae 01",
+        "Madras Kaapi 05",
+        "Janvi 10"
+      ],
+      "details": {
+        "Finish": "Ultra Matte",
+        "Lobe": "Enriched with Vitamin E",
+        "Stay": "Up to 8 hours"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1617897903246-719242758050?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-13",
+    "title": "Vitamin C Face Toner",
+    "description": "Pore tightening vitamin C and witch hazel toner from Mamaearth.",
+    "price": 399,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 50,
+    "rating": 4.2,
+    "brand": "Mamaearth",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "200ml Spray Bottle"
+      ],
+      "details": {
+        "Key Actives": "Vitamin C, Witch Hazel, Aloe Vera",
+        "Alcohol Status": "100% Alcohol Free",
+        "Benefit": "Brightens skin, restores pH"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-14",
+    "title": "15% Vitamin C Glow Serum",
+    "description": "Concentrated vitamin C glow face serum from Plum. Fades dark spots.",
+    "price": 790,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 42,
+    "rating": 4.5,
+    "brand": "Plum",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "20ml Amber Glass Dropper"
+      ],
+      "details": {
+        "Concentration": "15% Ethyl Ascorbic Acid (Active Vit C)",
+        "Cruelty Free": "Yes (Leaping Bunny certified)",
+        "Added Fragrance": "None"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-15",
+    "title": "Blur Perfect Skin Primer",
+    "description": "Lakme makeup base primer. Blurs pores and acts as a smooth foundation anchor.",
+    "price": 599,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1615396899839-c99c121888b0?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 55,
+    "rating": 4.4,
+    "brand": "Lakme",
+    "attributes": {
+      "type": "shade",
+      "values": [
+        "Tinted Pink Base"
+      ],
+      "details": {
+        "Finish": "Matte finish",
+        "Weight": "30g Tube",
+        "Waterproof": "Yes"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1617897903246-719242758050?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-16",
+    "title": "Hyaluronic Acid Plumping Serum",
+    "description": "L'Oreal Paris facial plumping serum containing 1.5% pure hyaluronic acid.",
+    "price": 899,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 35,
+    "rating": 4.6,
+    "brand": "L'Oreal",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "15ml Bottle",
+        "30ml Bottle"
+      ],
+      "details": {
+        "Concentration": "1.5% Pure Hyaluronic Acid",
+        "Function": "Reduces fine lines by 60%",
+        "Texture": "Watery lightweight gel"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-17",
+    "title": "WhiteGlow Skin Night Cream",
+    "description": "Lotus herbal skin nourishment and repair night cream. Cream-gel formula.",
+    "price": 425,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 60,
+    "rating": 4.1,
+    "brand": "Lotus Herbals",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "60g Jar"
+      ],
+      "details": {
+        "Extracts": "Grape, Mulberry, Saxifraga, Milk enzymes",
+        "Benefit": "Skin lightening, night repair",
+        "Skin Type": "All Skins"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-18",
+    "title": "Bio Kelp Protein Shampoo",
+    "description": "Nourishing shampoo from Biotique containing kelp sea extracts and peppermint oil.",
+    "price": 199,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 88,
+    "rating": 4.2,
+    "brand": "Biotique",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "190ml Bottle"
+      ],
+      "details": {
+        "Composition": "Kelp Seaweed, Neem bark, Peppermint oil",
+        "Action": "Therapeutic hair growth",
+        "pH status": "Naturally Balanced"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-19",
+    "title": "Tejasvi Skin Emulsion",
+    "description": "Forest Essentials traditional ghee-based face brightening massage cream.",
+    "price": 2800,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 8,
+    "rating": 4.9,
+    "brand": "Forest Essentials",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "30g Gold Jar"
+      ],
+      "details": {
+        "Ingredients": "Saffron, Almond oil, Cow Ghee, Sandalwood",
+        "Application": "Face massage at bedtime",
+        "Aroma": "Aromatic Sandalwood"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "cosmetics-20",
+    "title": "Kumkumadi Beauty Fluid",
+    "description": "Kama Ayurveda luxury saffron and sandalwood skin revitalizing facial oil.",
+    "price": 2995,
+    "category": "Cosmetics",
+    "categorySlug": "cosmetics",
+    "image": "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "out-of-stock",
+    "stockCount": 0,
+    "rating": 4.8,
+    "brand": "Kama Ayurveda",
+    "attributes": {
+      "type": "volume",
+      "values": [
+        "12ml Dropper Bottle"
+      ],
+      "details": {
+        "Extract": "Kumkumadi Tailam (Saffron Oil)",
+        "Function": "Brightens dull skin, reduces wrinkles",
+        "Fragrance": "Organic saffron"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-01",
+    "title": "Organic Toor Dal",
+    "description": "Sustainably cultivated organic unpolished Arhar/Toor Dal from Tata Sampann.",
+    "price": 189,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 140,
+    "rating": 4.7,
+    "brand": "Tata Sampann",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "1kg Pack",
+        "2kg Family Pack"
+      ],
+      "details": {
+        "Organic": "Yes",
+        "Polishing": "Unpolished (No artificial colors)",
+        "Certification": "Jaivik Bharat, USDA Organic"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Preeti B.",
+        "rating": 5,
+        "comment": "Cooks fast, tastes very organic.",
+        "date": "2026-06-15"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-02",
+    "title": "Shudh Chakki Whole Wheat Atta",
+    "description": "100% MP whole wheat chakki atta flour from ITC Aashirvaad. High dietary fiber.",
+    "price": 299,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 80,
+    "rating": 4.6,
+    "brand": "Aashirvaad",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "5kg Bag",
+        "10kg Bag"
+      ],
+      "details": {
+        "Flour Type": "100% Whole Wheat (Chakki Atta)",
+        "Packaging": "Airtight bag",
+        "Origin": "Madhya Pradesh wheat"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-03",
+    "title": "Turmeric Powder (Haldi)",
+    "description": "High essential oil contents pure turmeric powder from Catch Spices.",
+    "price": 55,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 120,
+    "rating": 4.5,
+    "brand": "Catch",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "200g Box",
+        "500g Pouch"
+      ],
+      "details": {
+        "Processing": "Low Temperature Grinding (LTG)",
+        "Gluten Status": "Gluten Free",
+        "Color": "Deep Golden Yellow"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-04",
+    "title": "Gold Cooking Oil",
+    "description": "Saffola Gold blend of rice bran and safflower oil with Pro Cardio properties.",
+    "price": 175,
+    "originalPrice": 195,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 70,
+    "rating": 4.4,
+    "brand": "Saffola",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "1L Bottle",
+        "5L Can"
+      ],
+      "details": {
+        "Refining": "Physically Refined Blend",
+        "Saturated Fats": "Low",
+        "Smoke Point": "High (Best for deep frying)"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1590540179852-2110a54f813a?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-05",
+    "title": "Kachi Ghani Mustard Oil",
+    "description": "Pure kachi ghani pungent mustard oil cold pressed by Fortune.",
+    "price": 160,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1590540179852-2110a54f813a?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 95,
+    "rating": 4.3,
+    "brand": "Fortune",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "1L PET Bottle",
+        "1L Pouch Pack"
+      ],
+      "details": {
+        "Extraction": "Cold-pressed (Kachi Ghani)",
+        "Pungency": "High",
+        "Preservatives": "None"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1590540179852-2110a54f813a?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-06",
+    "title": "Red Label Black Tea",
+    "description": "Classic CTC loose leaf tea blend from Brooke Bond Red Label. Supports immune health.",
+    "price": 240,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 110,
+    "rating": 4.6,
+    "brand": "Brooke Bond",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "500g Carton Box",
+        "1kg Carton Box"
+      ],
+      "details": {
+        "Type": "CTC Loose Leaf Black Tea",
+        "Health benefit": "Contains natural antioxidants",
+        "Flavour": "Strong Assam Blend"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1541167760496-1628856ab772?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-07",
+    "title": "Pure Cow Ghee",
+    "description": "Delicious traditional cow ghee prepared from fresh milk cream by Amul.",
+    "price": 680,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 45,
+    "rating": 4.8,
+    "brand": "Amul",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "1L Tin",
+        "500ml Refill Pack"
+      ],
+      "details": {
+        "Source": "100% Pure Cow Milk Fat",
+        "Aroma": "Rich grainy texture",
+        "Packaging": "Metal seal tin"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Pawan G.",
+        "rating": 5,
+        "comment": "Best aroma, pure cow ghee.",
+        "date": "2026-06-22"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620574387735-3624d75b2dbc?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-08",
+    "title": "Classic Instant Coffee",
+    "description": "100% pure instant coffee blend of arabica and robusta beans from Nescafe.",
+    "price": 310,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 85,
+    "rating": 4.5,
+    "brand": "Nescafe",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "100g Glass Jar",
+        "200g Glass Jar"
+      ],
+      "details": {
+        "Bean type": "Arabica and Robusta blend",
+        "Roast": "Medium Dark Roast",
+        "Form": "Instant granules"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1541167760496-1628856ab772?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-09",
+    "title": "Marie Gold Biscuits",
+    "description": "Crunchy tea-time classic crisp biscuits from Britannia. Pack of 5 value rolls.",
+    "price": 120,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1582966772680-860e372bb558?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 160,
+    "rating": 4.4,
+    "brand": "Britannia",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "Pack of 5 rolls (950g total)"
+      ],
+      "details": {
+        "Contains": "Wheat, Milk, Low Fats",
+        "Fortified": "Vitamins & Minerals",
+        "Best served with": "Chai (Tea)"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1582966772680-860e372bb558?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-10",
+    "title": "2-Minute Masala Noodles",
+    "description": "Indian favorite masala instant wheat noodles from Nestle Maggi. Value 12-pack.",
+    "price": 168,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1612927601601-6638404737ce?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 180,
+    "rating": 4.8,
+    "brand": "Maggi",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "Pack of 12 (840g total)"
+      ],
+      "details": {
+        "Seasoning": "Masala tastemaker included",
+        "Ingredients": "Refined wheat flour, Indian spices",
+        "Cook time": "2 Minutes"
+      }
+    },
+    "reviews": [
+      {
+        "name": "Divya N.",
+        "rating": 5,
+        "comment": "Maggi is life. Fast shipping.",
+        "date": "2026-06-29"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-11",
+    "title": "White Basmati Rice",
+    "description": "Long grain aromatic organic basmati rice from Organic Tattva.",
+    "price": 145,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 60,
+    "rating": 4.5,
+    "brand": "Organic Tattva",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "1kg Bag",
+        "5kg Bag"
+      ],
+      "details": {
+        "Rice length": "Long Grain (Aged 1 year)",
+        "Organic": "USDA Certified Organic",
+        "Aroma": "High"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-12",
+    "title": "Taj Mahal Loose Tea",
+    "description": "Premium tea leaves blend from Brooke Bond Taj Mahal. Rich taste and aroma.",
+    "price": 210,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 65,
+    "rating": 4.6,
+    "brand": "Taj Mahal",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "250g Carton Box"
+      ],
+      "details": {
+        "Type": "Premium Loose Leaf CTC",
+        "Sourcing": "Darjeeling & Assam gardens",
+        "Tone": "Strong Gold"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1541167760496-1628856ab772?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-13",
+    "title": "Salted Butter Premium",
+    "description": "Amul salted table butter. An integral part of Indian breakfast toast and cooking.",
+    "price": 275,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1620574387735-3624d75b2dbc?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 110,
+    "rating": 4.8,
+    "brand": "Amul",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "500g Block Pack"
+      ],
+      "details": {
+        "Salt Content": "Lightly Salted",
+        "Milk Fat": "80%",
+        "Storage": "Keep refrigerated"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-14",
+    "title": "Toned Pasteurised Milk",
+    "description": "Pasteurized toned liquid milk packet from Mother Dairy. Rich in calcium.",
+    "price": 66,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 150,
+    "rating": 4.5,
+    "brand": "Mother Dairy",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "1L Pouch Pack"
+      ],
+      "details": {
+        "Fat Content": "3.0% Fat",
+        "SNF Content": "8.5% Solid Not Fat",
+        "Lactate Status": "Pasteurised"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620574387735-3624d75b2dbc?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-15",
+    "title": "Fresh Tomato Ketchup",
+    "description": "Sweet and tangy tomato ketchup condiment sauce prepared by Kissan.",
+    "price": 140,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 85,
+    "rating": 4.3,
+    "brand": "Kissan",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "950g Squeeze Pouch"
+      ],
+      "details": {
+        "Pulp Content": "100% Real Tomatoes",
+        "Packaging": "Spout standy pouch",
+        "Veggies": "Vegetarian"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620574387735-3624d75b2dbc?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-16",
+    "title": "Masala Oats Breakfast",
+    "description": "Quick cooking instant masala oats blended with carrots, green peas, and spices from Saffola.",
+    "price": 185,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1517093602195-b40af9688b46?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 64,
+    "rating": 4.2,
+    "brand": "Saffola",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "500g Bag Pack"
+      ],
+      "details": {
+        "Flavor": "Classic Masala",
+        "Fat percentage": "Low Fat, High Fiber",
+        "Preparation time": "3 minutes"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-17",
+    "title": "Lite Low Sodium Salt",
+    "description": "Low sodium dietary table salt from Tata Salt. Formulated for blood pressure control.",
+    "price": 45,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 130,
+    "rating": 4.5,
+    "brand": "Tata",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "1kg Bag Pack"
+      ],
+      "details": {
+        "Sodium reduction": "15% less sodium than regular salt",
+        "Iodised": "Yes",
+        "Fortified": "Potassium fortified"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-18",
+    "title": "Good Day Cashew Cookies",
+    "description": "Sweet butter cookies loaded with rich cashew nut pieces from Britannia. Family pack.",
+    "price": 100,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "in-stock",
+    "stockCount": 140,
+    "rating": 4.4,
+    "brand": "Britannia",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "Pack of 4 (600g total)"
+      ],
+      "details": {
+        "Ingredients": "Wheat flour, Cashew nuts, Butter, Sugar",
+        "Veg Status": "Vegetarian",
+        "Texture": "Crisp Melt-in-mouth"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1582966772680-860e372bb558?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-19",
+    "title": "Raw Mountain Honey",
+    "description": "100% pure organic raw honey harvested from wild mountain flowers by Organic Tattva.",
+    "price": 320,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "low-stock",
+    "stockCount": 5,
+    "rating": 4.7,
+    "brand": "Organic Tattva",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "500g Glass Jar"
+      ],
+      "details": {
+        "Honey processing": "Unfiltered & unpasteurized",
+        "Organic certified": "Jaivik Bharat, OneCert",
+        "Sourcing": "Himalayan Foothills"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=600&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "grocery-20",
+    "title": "Organic Chana Besan",
+    "description": "ITC Aashirvaad stone milled organic gram flour (Besan). High protein flour.",
+    "price": 150,
+    "category": "Grocery",
+    "categorySlug": "grocery",
+    "image": "https://images.unsplash.com/photo-1608686207856-001b95cf60ca?w=600&auto=format&fit=crop&q=80",
+    "stockStatus": "out-of-stock",
+    "stockCount": 0,
+    "rating": 4.4,
+    "brand": "Aashirvaad",
+    "attributes": {
+      "type": "weight",
+      "values": [
+        "1kg Bag Pack"
+      ],
+      "details": {
+        "Grain Type": "100% organic Bengal Gram (Chana)",
+        "Milling": "Traditional stone chakki",
+        "Gluten Status": "Naturally Gluten Free"
+      }
+    },
+    "reviews": [],
+    "gallery": [
+      "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=600&auto=format&fit=crop&q=80"
+    ]
+  }
+]
